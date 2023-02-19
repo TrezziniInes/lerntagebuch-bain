@@ -1,7 +1,8 @@
 title: Blog Bibliotheks- und Archivinformatik
 author: Ines Trezzini
+email: ines.trezzini@stud.fhgr.ch
 description: > # this means to ignore newlines
-  Vorlage für ein Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
+  Lerntagebuch für den Kurs _Bibliotheks- und Archivinformatik (BAIN)_ Frühlingssemester 2023
 
 # social links
 github_username:  TrezziniInes # DO NOT include the @ character, or else the build will fail!
