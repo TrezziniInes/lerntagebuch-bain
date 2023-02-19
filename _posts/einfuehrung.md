@@ -1,8 +1,8 @@
 ---
 title: "Wo bin ich gestartet?"
-date: 2023-02-15
+date: 2023-02-19
 ---
-## **Aller Anfang ist schwer ...**
+## **Test ...**
 Bevor wir starten, werfen wir einen kurzen Blick auf meine Vorkenntnisse. Aber bitte nicht zu viel erwarten: Meine Informatikkentnisse sind leider nur rudimentär. Alles, was ich in theoretischer hinsicht zu Bibliotheks- und Archivinformatik weiss, habe ich mir im Studium in den Pflichtmodulen angeeignet. (Als ich auf dem Gymnasium war, hatten wir zwar ein Fach, das sich Informatik nannte – doch dort lernten wir bloss alles über … die Anwendung von Microsoft Word.) Folgende Module mit Aspekten von Informatik bzw. Programmieren habe ich während des Studiums bereits besucht:
 
 | Modul  | Lerninhalte |
