@@ -2,6 +2,7 @@
 title: "Wo bin ich gestartet?"
 date: 2023-02-19
 ---
+# **Aller Anfang ist schwer ...** 
 Bevor wir starten, werfen wir einen kurzen Blick auf meine Vorkenntnisse. Aber bitte nicht zu viel erwarten: Meine Informatikkentnisse sind leider nur rudimentär. Alles, was ich in theoretischer hinsicht zu Bibliotheks- und Archivinformatik weiss, habe ich mir im Studium in den Pflichtmodulen angeeignet. (Als ich auf dem Gymnasium war, hatten wir zwar ein Fach, das sich Informatik nannte – doch dort lernten wir bloss alles über … die Anwendung von Microsoft Word.) Folgende Module mit Aspekten von Informatik bzw. Programmieren habe ich während des Studiums bereits besucht:
 
 | Modul  | Lerninhalte |
@@ -24,4 +25,4 @@ Insgesamt würde ich sagen, dass ich mit Informatik relativ wenig am Hut habe. B
 
 Was erwarte ich vom Kurs? Da es ein Pflichtkurs ist, erwarte ich ehrlich gesagt nicht allzu viel, sondern lasse mich gern überraschen. Ich freue mich darauf, dass der Kurs gemäss Ankündigung vornehmlich auf die tatsächliche Anwendung von Software ausgerichtet sein wird. Dadurch erhoffe ich mir praxisnahe und verständliche Eindrücke aus bibliotheks- und archivinformatischen Bereichen, welche die Thematik verständlich machen. Ausserdem bin ich gespannt darauf, was die in der Startsitzung angesprochenen Programme bzw. Plattformen alles bieten und was sich damit anstellen lässt …
 
-**Fazit**
+## **Fazit**
