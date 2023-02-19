@@ -28,4 +28,5 @@ Was erwarte ich vom Kurs? Da es ein Pflichtkurs ist, erwarte ich ehrlich gesagt 
 
 ## **Der schrullige Abschluss**
 Wenn es um Informatik geht, fühle ich mich oft so: 
+
 ![Wenn es um Informatik geht, fühle ich mich oft so:](https://i.chzbgr.com/full/7626127616/hBCEBC8EE/i-have-no-idea-what-im-doing)
