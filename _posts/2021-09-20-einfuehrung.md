@@ -3,6 +3,7 @@ title: "Wo bin ich gestartet?"
 date: 2023-02-19
 ---
 Meine Informatikkentnisse sind leider nur rudimentär. Alles, was ich dazu weiss, habe ich mir im Studium in den Pflichtmodulen angeeignet. (Als ich auf dem Gymnasium war, hatten wir zwar ein Fach, das sich Informatik nannte – doch dort lernten wir bloss alles über … die Anwendung von Microsoft Word.) Folgende Module mit Aspekten von Informatik bzw. Programmieren habe ich während des Studiums bereits besucht:
+
 | Modul  | Lerninhalte |
 | ------------- | ------------- |
 | Wirtschaftsinformatik  | HTML, CSS, XML, Zahlensysteme, Informationseinheiten, Dateiformate, Betriebssysteme, Informations- und Kommunikationstechnik allgemein  |
@@ -12,6 +13,7 @@ Meine Informatikkentnisse sind leider nur rudimentär. Alles, was ich dazu weiss
 | Architektur von Informationssystemen  | Funktionsweise des Internets und wichtiger Internetdienste, Linux-Betriebssystem, Protokolle und Metadatenstandards, Datensicherheit, CSV, Implementierung eines webbasierten Informationssystems |
 | Usability Engineering  | Usability Engineering, User Experience, Inclusive Design und Accessibility |
 | Semantische Systeme für Informationsverarbeitung | Ontologien in Protégé, RDF, RDFS, OWL, Reasoning, SPARQL, Regeln -- SWRL und SQWRL |
+
 Ausserdem wurden in diversen anderen Modulen Austauschformate und Metadatenstandards (Dublin Core, Marc21 etc.) angesprochen, aber im Allgemeinen nicht vertieft beleuchtet.
 
 In all diesen Modulen bin ich recht gut abgeschnitten, was ich jedoch weniger auf Talent als auf Fleiss zurückführe. Es handelte sich meist um Kurse, in denen man zwar aufschlussreiche Basiskenntnisse gewann, aber keine vertieften Fähigkeiten zu den jeweiligen Themenfeldern erwarb. Die meisten Module fand ich relativ interessant, wobei ich allerdings in den fast vier Jahren an der FHGR mittlerweile leider bereits viele der vermittelten Inhalte wieder vergessen habe, da ich es ausserhalb der Schule nicht anwenden musste/konnte/durfte.
