@@ -26,7 +26,7 @@ Insgesamt würde ich sagen, dass ich mit Informatik relativ wenig am Hut habe. B
 
 Was erwarte ich vom Kurs? Da es ein Pflichtkurs ist, erwarte ich ehrlich gesagt nicht allzu viel, sondern lasse mich gern überraschen. Ich freue mich darauf, dass der Kurs gemäss Ankündigung vornehmlich auf die tatsächliche Anwendung von Software ausgerichtet sein wird. Dadurch erhoffe ich mir praxisnahe und verständliche Eindrücke aus bibliotheks- und archivinformatischen Bereichen, welche die Thematik verständlich machen. Ausserdem bin ich gespannt darauf, was die in der Startsitzung angesprochenen Programme bzw. Plattformen alles bieten und was sich damit anstellen lässt …
 
-## **Der schrullige Abschluss**
+## **Der schrullige Schluss**
 Wenn es um Informatik geht, fühle ich mich oft so: 
 
 ![Wenn es um Informatik geht, fühle ich mich oft so:](https://i.chzbgr.com/full/7626127616/hBCEBC8EE/i-have-no-idea-what-im-doing)
